@@ -1,4 +1,4 @@
-# applied-ml
+# Applied-ML
 Curated papers, articles, and blogs on **data science & machine learning in production**. ⚙️
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md) ![HitCount](http://hits.dwyl.com/eugeneyan/applied-ml.svg)
